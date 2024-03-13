@@ -10,10 +10,10 @@
 // @connect		 githubusercontent.com
 // @connect		 github.com
 // @connect		 glitch.me
-// @connect		 canvaspixel.net
+// @connect		 pxgame.xyz
 // @downloadURL  https://raw.githubusercontent.com/p2wisabadidea/canvaspixel-bot/main/stuff/ppf_bot/initer.user.js
 // @updateURL  	 https://raw.githubusercontent.com/p2wisabadidea/canvaspixel-bot/main/stuff/ppf_bot/initer.user.js
-// @match      *://www.canvaspixel.net/*
+// @match      *://www.pxgame.xyz/*
 // ==/UserScript==
 
 fetch('https://raw.githubusercontent.com/p2wisabadidea/canvaspixel-bot/main/bots/bytecode2')
